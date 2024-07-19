@@ -8,7 +8,7 @@ This portfolio is built with **Next.js** and a library called [Nextra](https://n
 - Easily categorize posts with tags
 - Fast, optimized web font loading
 
-https://demo.vercel.blog
+<https://demo.vercel.blog>
 
 ## Configuration
 
@@ -34,5 +34,3 @@ yarn create next-app --example blog my-blog
 # or
 pnpm create next-app --example blog my-blog
 ```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
